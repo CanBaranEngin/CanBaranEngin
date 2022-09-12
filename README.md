@@ -1,9 +1,8 @@
 ### Hi there 👋 I'm Baran
 
-<!--
-**CanBaranEngin/CanBaranEngin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :man_technologist: About Me :
+I am a BackEnd Developer.
 
-Here are some ideas to get you started:
 - 🌱 I have experince about Java and Python.
 - 🌱 I’m currently learning Java Spring.
 - 💬 Ask me about Java and Python
